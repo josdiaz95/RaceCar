@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using RaceTrack.RaceTrack.Drivers;
 
 namespace RaceTrack.RaceTrack.Cars
 {
@@ -12,6 +14,7 @@ namespace RaceTrack.RaceTrack.Cars
         public string Name { get; set; }
         public int Position { get; set; }
         public int TopSpeed { get; set; }
+     
 
         public void Accelerate(int driverSkill)
         {
@@ -32,7 +35,8 @@ namespace RaceTrack.RaceTrack.Cars
 
         public virtual void StopEngine()
         {
-            Console.WriteLine("All engines are off.");
+            Console.WriteLine($"The driver of the {Name}, turns off their engine.");
+            
         }
         public virtual void Brake()
         {
