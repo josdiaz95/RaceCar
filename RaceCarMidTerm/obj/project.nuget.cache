@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "N9TdPHJa4fYx4RV9doMjyk6K7kQsl77i30Vv167H/IKE/pJJSrab8hGoZg7Yfj+SGo3zFsCdQau64/d+xW8gEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\josdi\\OneDrive\\Desktop\\dotNet\\RaceCarMidTerm\\RaceTrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\josdi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\josdi\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
